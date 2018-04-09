@@ -2,9 +2,9 @@
 
 *LEGO:*  
 
-    [http://jkbrickworks.com]
+    <http://jkbrickworks.com>
 
 *iOS:*  
 
-    [http://mrpeak.cn]  
-    [https://ming1016.github.io]
+    <http://mrpeak.cn> 
+    <https://ming1016.github.io>
