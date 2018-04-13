@@ -7,4 +7,4 @@ http://jkbrickworks.com
 http://mrpeak.cn  
 https://ming1016.github.io  
 http://nshipster.com  
-https://skyline75489.github.io/index.html
+https://skyline75489.github.io
