@@ -15,6 +15,9 @@ http://limboy.me
 https://blog.ibireme.com  
 http://blog.sunnyxx.com  
 
+***iOS应用逆向:***  
+https://everettjf.github.io/2018/01/15/ios-app-reverse-engineering-stuff  
+
 ***WorkLife:***  
 http://ftqq.com  
 http://www.cnblogs.com/163yun
