@@ -13,4 +13,7 @@ http://wereadteam.github.io
 http://blog.cnbang.net  
 http://limboy.me  
 https://blog.ibireme.com  
-http://blog.sunnyxx.com
+http://blog.sunnyxx.com  
+
+***WorkLife:***  
+http://ftqq.com
