@@ -32,7 +32,8 @@ https://onevcat.com/#blog
 
 ***iOS应用逆向:***  
 https://everettjf.github.io/2018/01/15/ios-app-reverse-engineering-stuff  
-http://rexq.me
+http://rexq.me  
+http://bbs.iosre.com
 
 ***WorkLife:***  
 http://ftqq.com  
